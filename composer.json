@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/leader-id",
+    "name": "rmelenchenko/leader-id",
     "description": "Leader ID (leader-id.ru) OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
